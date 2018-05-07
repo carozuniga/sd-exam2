@@ -4,7 +4,7 @@
 **Nombre:** Carolina Zúñiga Ospina  
 **Código:**  A00315292
 
-**Url Repositorio:** 
+**Url Repositorio:**  https://github.com/carozuniga/sd-exam2/tree/master/A00315292
 
 
 ### Desarrollo 
@@ -267,6 +267,6 @@ La principal dificultad se encontró al momento de desplegar los servicios en el
 [2]: images/build.png
 [3]: images/push.png
 [4]: images/deploy.png
-[5]: images/kibana.png
-[6]: images/whoami.png
-[7]: images/uml.png
+[5]: images/kibana.PNG
+[6]: images/whoami.PNG
+[7]: images/uml.PNG
